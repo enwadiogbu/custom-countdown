@@ -141,16 +141,16 @@ li span {
     color: rgb(244, 250, 69);
   }
   50% {
-    color: rgba(21, 173, 233, 0.829);
+    color: rgba(11, 223, 22, 0.829);
     transform: scale(1.5);
   }
 
   75% {
-    color: rgba(107, 3, 29, 0.603);
+    color: rgba(13, 96, 230, 0.802);
   }
 
   100% {
-    color: rgb(10, 255, 145);
+    color: rgb(116, 10, 255);
   }
 }
 
